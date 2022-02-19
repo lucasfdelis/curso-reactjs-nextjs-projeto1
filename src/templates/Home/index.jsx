@@ -80,6 +80,9 @@ export const Home = () => {
     </section>
   ); 
 }
+
+//teste
+
 // export class Home2 extends Component {
 
 //   state = {
