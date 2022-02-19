@@ -81,8 +81,6 @@ export const Home = () => {
   ); 
 }
 
-//teste
-
 // export class Home2 extends Component {
 
 //   state = {
